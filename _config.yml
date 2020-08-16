@@ -1,26 +1,26 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://bchiang7.github.io/
+name: Jeevanshi Sharma
+title: Jeevanshi Sharma | ML Explorer
+description: Passionate to solve real world problems usinf machine learning
+url: https://Femme-js.github.io/
 baseurl: ''
-email: brittany.chiang@gmail.com
+email: sharma.jivanshi@gmail.com
 cover: https://bchiang7.github.io/img/og.png
 logo: https://bchiang7.github.io/img/emojis/technologist.png
 resume: https://bchiang7.github.io/resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
+    url: mailto:sharma.jivanshi@gmail.com
   - title: twitter
-    url: https://twitter.com/bchiang7
+    url: https://twitter.com/_Jeevanshi_
   - title: instagram
-    url: https://instagram.com/bchiang7
+    url: https://instagram.com/tech_and_us
   - title: codepen
     url: http://codepen.io/bchiang7
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/Femme-js
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/Femme-js
 
 # Build settings
 markdown: kramdown
